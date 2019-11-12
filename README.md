@@ -1,6 +1,10 @@
 # Create Page using Asp.Net Core to Read Email Message Header
 
-This [Aspose free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.Email to read and extract email message heade](https://products.aspose.com/email). 
+This [Aspose free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.Email to read and extract email message heade](https://products.aspose.com/email). You can do a lot more with your emails using Aspose.Email API other than [reading and extracting email message header information](https://github.com/aspose-free-consulting/create-page-using-asp.net-core-to-read-email-message-header/blob/master/EmailHeader/Controllers/HomeController.cs): 
+
+* [Loading, viewing and parsing email messages](https://docs.aspose.com/display/emailnet/Loading%2C+Viewing+and+Parsing+MSG+file)
+* [Working with email attachments](https://docs.aspose.com/display/emailnet/Working+with+Message+Attachments)
+* [Sending and forwarding messages](https://docs.aspose.com/display/emailnet/Sending+and+Forwarding+Messages)
 
 
 # How to Use the Project
