@@ -3,7 +3,7 @@
 This [Aspose free consulting project](https://aspose-free-consulting.github.io/) uses [Aspose.Email to read and extract email message heade](https://products.aspose.com/email). 
 
 
-#How to Use the Project
+# How to Use the Project
 
 Please perform the following steps to run the example project:
 
@@ -14,7 +14,7 @@ Please perform the following steps to run the example project:
 * The output table showing the read email header will display the information
 
 
-#Screenshots
+# Screenshots
 
 Email header sample extracted from an email using Aspose.Email API
 
