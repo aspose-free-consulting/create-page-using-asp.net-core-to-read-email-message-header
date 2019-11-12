@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Email Header";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <center><h2>Email Header Information</h2></center>
+        <div>
+
+            <table border="1" align="center" width="60%">
+                <thead>
+                    <tr>
+                        @foreach (System.Data.DataColumn col in Model.Columns)
+                        {
+                            <th>@col.Caption</th>
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (System.Data.DataRow row in Model.Rows)
+                    {
+                        <tr>
+                            @foreach (var cell in row.ItemArray)
+                            {
+                                <td>@cell.ToString()</td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
