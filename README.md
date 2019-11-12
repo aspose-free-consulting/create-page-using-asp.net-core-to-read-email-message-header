@@ -8,6 +8,9 @@ This Aspose free consulting project uses Aspose.Email to read and extract email 
 
 #Screenshots
 
+Email header sample extracted from an email using Aspose.Email API
+
+<img width="1165" alt="EmailHeader" src="https://user-images.githubusercontent.com/1214951/68670573-0e70be80-056f-11ea-95c9-1a2a7cad08f6.png">
 
 
 
