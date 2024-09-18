@@ -33,4 +33,4 @@ If you find any questions or need help, please ask in [Aspose.Email forum](https
 
 
 ## This free consulting project is based on the following issue: 
-[I want to create/build a page using asp.net core to read/extract mail message header](https://github.com/aspose-free-consulting/projects/issues/19)
+I want to create/build a page using asp.net core to read/extract mail message header: github.com/aspose-free-consulting/projects/issues/19
